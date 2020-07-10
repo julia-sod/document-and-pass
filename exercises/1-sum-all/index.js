@@ -2,8 +2,8 @@
 * sums all the numbers between 2 given integers, including them
 * throws "ERROR" if one of the output is not a number or not an integer number
 
-* @param {number} a 
-* @param {number} b 
+* @param {number} a - given number
+* @param {number} b - given number
 * returns {number} - sum
  */
 
